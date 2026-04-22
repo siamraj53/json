@@ -13,6 +13,20 @@
 							"dob": "1993-04-23"
 						}
 					]
+				},
+				"2class": {
+					"classTeacher": "pai",
+					"students":[
+						{
+							"name": "pee",
+							"dob": "1991-05-25",
+
+						},
+						{
+							"name": "bee",
+							"dob": "1991-06-26"
+						}
+					]
 				}
 			}
 		}
