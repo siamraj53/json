@@ -4,6 +4,11 @@
 	"schools": {
 		"JJEMHS": {
 			"strength": 900
+			"classes": {
+				"1class": {
+					"strength": 54
+				}
+			}
 		}
 	}
 }
