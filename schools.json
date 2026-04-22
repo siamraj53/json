@@ -7,6 +7,12 @@
 			"classes": {
 				"1class": {
 					"strength": 54
+					"students": [
+						{
+							"name":"dee",
+							"dob": "1993-04-23"
+						}
+					]
 				}
 			}
 		}
