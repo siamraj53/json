@@ -1,4 +1,9 @@
 {
 	"area": "NDK",
-	"totalSchools": 100
+	"totalSchools": 100,
+	"schools": {
+		"JJEMHS": {
+			"strength": 900
+		}
+	}
 }
