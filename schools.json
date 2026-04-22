@@ -1,4 +1,20 @@
 {
 	"area": "NDK",
-	"totalSchools": 100
+	"totalSchools": 100,
+	"schools": {
+		"JJEMHS": {
+			"strength": 900
+			"classes": {
+				"1class": {
+					"strength": 54
+					"students": [
+						{
+							"name":"dee",
+							"dob": "1993-04-23"
+						}
+					]
+				}
+			}
+		}
+	}
 }
